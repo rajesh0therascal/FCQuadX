@@ -1,0 +1,35 @@
+EESchema Schematic File Version 4
+LIBS:FCrev2-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 6100 7050 750  650 
+U 5FAAB777
+F0 "Controller" 50
+F1 "Controller.sch" 50
+$EndSheet
+$Sheet
+S 9350 1000 800  750 
+U 5FAACCF1
+F0 "PowerSupply" 50
+F1 "PowerSupply.sch" 50
+$EndSheet
+$Sheet
+S 9100 2400 800  750 
+U 5FAAF61E
+F0 "Connector" 50
+F1 "Connector.sch" 50
+$EndSheet
+$EndSCHEMATC
