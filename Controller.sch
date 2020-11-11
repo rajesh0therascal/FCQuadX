@@ -413,7 +413,7 @@ P 3700 4150
 AR Path="/5FAFE3ED" Ref="U?"  Part="1" 
 AR Path="/5FAAB777/5FAFE3ED" Ref="U?"  Part="1" 
 F 0 "U?" H 3650 1261 50  0000 C CNN
-F 1 "STM32F765VITx" H 3650 1170 50  0000 C CNN
+F 1 "STM32F765VITx" H 3050 1500 50  0000 C CNN
 F 2 "Package_QFP:LQFP-100_14x14mm_P0.5mm" H 3000 1550 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00273119.pdf" H 3700 4150 50  0001 C CNN
 	1    3700 4150

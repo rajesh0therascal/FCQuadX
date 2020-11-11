@@ -28,24 +28,6 @@ F 3 "~" H 10700 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L USBULC6-2M6:USBULC6-2M6 ESD?
-U 1 1 5FB04B58
-P 5450 2100
-AR Path="/5FB04B58" Ref="ESD?"  Part="1" 
-AR Path="/5FAAF61E/5FB04B58" Ref="ESD?"  Part="1" 
-F 0 "ESD?" H 5450 2567 50  0000 C CNN
-F 1 "USBULC6-2M6" H 5450 2476 50  0000 C CNN
-F 2 "UQFN6" H 5450 2100 50  0001 L BNN
-F 3 "" H 5450 2100 50  0001 L BNN
-F 4 "Unavailable" H 5450 2100 50  0001 L BNN "Field4"
-F 5 "USBULC6-2M6" H 5450 2100 50  0001 L BNN "Field5"
-F 6 "USBULC6 Series 6 V 2 Channel SMT Bi-Directional ESD Protection - UQFN-6" H 5450 2100 50  0001 L BNN "Field6"
-F 7 "UFDFN-6 STMicroelectronics" H 5450 2100 50  0001 L BNN "Field7"
-F 8 "None" H 5450 2100 50  0001 L BNN "Field8"
-	1    5450 2100
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:USB_B_Micro J?
 U 1 1 5FB04B5E
 P 10550 2700
